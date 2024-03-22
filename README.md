@@ -8,6 +8,7 @@ The login screen enables users to log in by entering their email address and pas
 * Login screen with input validation for email and password fields.
 * Error handling for empty fields and invalid email addresses.
 * Smooth navigation between sign-up, login, and home screens.
+* 
 **Technologies Used:**
 * Kotlin
 * Android Jetpack (Navigation, Fragment)
