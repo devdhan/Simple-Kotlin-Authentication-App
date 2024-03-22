@@ -14,8 +14,11 @@ The login screen enables users to log in by entering their email address and pas
 * Android Data Binding
 Screenshots and Recordings:
 Below are the screenshots and recordings showcasing the sign-up and login process in the app.
+
 ![Signup](https://github.com/devdhan/Simple-Kotlin-Authentication-App/assets/114002451/e7508d16-da63-49bb-8ef3-394fa608093c)
+
 ![Login](https://github.com/devdhan/Simple-Kotlin-Authentication-App/assets/114002451/4b0dcdcd-f37f-46fa-a52d-93b377376e21)
+
 ![Homepage](https://github.com/devdhan/Simple-Kotlin-Authentication-App/assets/114002451/2cd4e775-ea94-465b-84fe-74837b057227)
 
 
