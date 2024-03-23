@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bye">BYE!!!!</string>
+    <string name="devdhan">DESIGNED BY DEVDHAN</string>
+    <string name="welcome">WELCOME TO THE HOME SCREEN</string>
+    <string name="home_icon">Home Icon</string>
+</resources>

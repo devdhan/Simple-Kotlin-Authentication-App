@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mynav"
+    app:startDestination="@id/signUp">
+
+    <fragment
+        android:id="@+id/signUp"
+        android:name="com.example.test.Screens.SignUp"
+        android:label="fragment_sign_up"
+        tools:layout="@layout/fragment_sign_up" >
+        <action
+            android:id="@+id/action_signUp_to_play"
+            app:destination="@id/play" />
+    </fragment>
+    <fragment
+        android:id="@+id/play"
+        android:name="com.example.test.Screens.Play"
+        android:label="fragment_play"
+        tools:layout="@layout/fragment_play" >
+        <action
+            android:id="@+id/action_play_to_homePage"
+            app:destination="@id/homePage2" />
+    </fragment>
+    <fragment
+        android:id="@+id/homePage2"
+        android:name="com.example.test.Screens.HomePage"
+        android:label="fragment_home_page"
+        tools:layout="@layout/fragment_home_page" />
+</navigation>
